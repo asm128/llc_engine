@@ -127,7 +127,7 @@
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -149,7 +149,7 @@
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -170,7 +170,7 @@
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -194,7 +194,7 @@
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -213,7 +213,7 @@
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -235,7 +235,7 @@
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -256,7 +256,7 @@
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
@@ -280,7 +280,7 @@
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../llc/llc;</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <UseStandardPreprocessor>true</UseStandardPreprocessor>
     </ClCompile>
